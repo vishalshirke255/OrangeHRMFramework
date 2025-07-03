@@ -6,4 +6,7 @@ public class TrialClass {
 
 	
 	// Here I  added another test case
+	
+	
+	//Trial for git Conflict
 }
